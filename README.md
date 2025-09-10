@@ -1,2 +1,2 @@
 # MagicIsland
-World lore and mechanics for players in a Dungeons and Dragons campaign
+World lore and mechanics for a Dungeons and Dragons campaign
